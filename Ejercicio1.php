@@ -16,6 +16,7 @@
     Valor de venta:
     <input type="text" name="valor" id="valor">
     <input type="submit" value="enviar">
+    Ejemplo de cambio
 
 </body>
 </html>
